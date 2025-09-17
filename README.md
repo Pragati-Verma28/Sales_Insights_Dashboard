@@ -1,4 +1,4 @@
-# Retail Sales Analysis Dashboard (Advanced Excel)
+# Retail Sales Analysis Dashboard 
 
 ## Project Overview
 This project analyzes **31K+ sales transactions** from Vrinda Store using **Advanced Excel**.  
