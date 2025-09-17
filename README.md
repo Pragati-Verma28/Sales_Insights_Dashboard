@@ -23,4 +23,6 @@ The goal was to uncover sales trends, customer behavior, and performance KPIs, a
 ## Business Value
 - Enabled **targeted marketing strategies** by identifying high-value segments  
 - Supported **inventory planning** using seasonal and regional trends  
-- Improved **reporting efficiency** with an automated, interactive Excel dashboard  
+- Improved **reporting efficiency** with an automated, interactive Excel dashboard
+
+
